@@ -1,5 +1,4 @@
 # LINEAR MC FIT
-
 def mcFitLine(x, y, x_err, y_err):
     slopes = list()
     y_ints = list()
